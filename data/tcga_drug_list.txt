@@ -1,0 +1,34 @@
+Rituximab
+Vinblastine
+Gemcitabine
+Lapatinib
+Letrozole
+Cyclophosphamide
+Epirubicin
+Docetaxel
+Mitoxantrone
+Prednisone
+Leuprolide
+Trabectedin
+Fulvestrant
+Vinorelbine
+Denosumab
+Capecitabine
+Paclitaxel
+Trastuzumab
+Zoledronic acid
+Vincristine
+Pegfilgrastim
+Poly E
+Exemestane
+Fluorouracil
+Methotrexate
+Bevacizumab
+Cisplatin
+Carboplatin
+Goserelin
+Doxorubicin
+Ixabepilone
+Tamoxifen
+Pamidronic acid
+Anastrozole

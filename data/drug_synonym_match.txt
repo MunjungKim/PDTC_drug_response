@@ -1,0 +1,996 @@
+R1507	Teprotumumab
+Sorafenib	Sorafenib
+Catumaxumab	Catumaxomab
+Folfiri	Leucovorin	Fluorouracil	Irinotecan
+rec MAGE3-AS+AS15 ASCI vs Placebo	MAGE-3-AS-AS15-ASCI
+Study drug AMG 655	Conatumumab
+Gleevec	Imatinib
+autologous vaccine	ATCV
+TRASTUZUMAB	Trastuzumab
+PROCARBAZINE	Procarbazine
+alimta	Pemetrexed
+RBBX 01	rBBX-01
+synthroid	Levothyroxine
+Aromasin (Exemestane)	Exemestane
+Mitoxantrone	Mitoxantrone
+Topotecan	Topotecan
+Pemetrexed disodium	Pemetrexed
+Votrient	Pazopanib
+Gemcitabine Injection	Gemcitabine
+Filgrastim (G-CSF)	Filgrastim
+Letrozol	Letrozole
+Fluorouracil IV Continuous infusion over 46 hours	Fluorouracil
+Hydoxyurea	Hydroxyurea
+IRESSA placebo vs. drug	Gefitinib
+PARAPLATIN	Carboplatin
+MEL-44	Sargramostim
+Temozlomide	Temozolomide
+Alkeran	Melphalan
+cyclophosphamidum	Cyclophosphamide
+ERBITUX	Cetuximab
+Roferon-A	Interferon A
+cis-retinoic acid	Isotretinoin
+GOG182	GOG 182
+Femara	Letrozole
+Erbitux	Cetuximab
+doxorubicine	Doxorubicin
+Cetuximab Study drug	Cetuximab
+Gaminocamptothecin	9-aminocamptothecin
+Gemcitabine HCI	Gemcitabine
+Erlotinib	Erlotinib
+LOMUSTINE	Lomustine
+Eloxatin	Oxaliplatin
+Gefitinib	gefitinib
+Lomustin	Lomustine
+Sylatron	Peginterferon alfa-2a
+Leuprorelin	Leuprolide
+ADRIAMYCIN	Doxorubicin
+Mibefradil	mibefradil
+Dexamethasone	Dexamethasone
+TC	Docetaxel	Cyclophosphamide
+Adrimycin	Doxorubicin
+Trelstar	Triptorelin
+Lymphocyte Infusion	NOS
+Cancer Vax	Polyvalent Melanoma Vaccine
+Trustuzumab	Trastuzumab
+Vincristine (sulfate)	Vincristine
+Clinical trial	NOS
+Tetrathiomolybdate	Tiomolibdate
+LY228820	LY228820
+Amifostine	Amifostine
+Hexalin	Altretamine
+Altima	Pemetrexed
+Cisplatin/Gemzar	Cisplatin	Gemcitabine
+Epirubicoin	Epirubicin
+Procarbazine	Procarbazine
+Liposomal doxorubicin	Doxorubicin
+Temozolomide	Temozolomide
+5-Fluorouracil + leucovorin	Fluorouracil	Leucovorin
+epirubicinum	Epirubicin
+dasatinib	Dasatinib
+Bevacizumab or Placebo	Bevacizumab
+GEMCITABINE	Gemcitabine
+IL-18	Interleukin-18
+trabectedin	Trabectedin
+nolvadex	Tamoxifen
+Taxotere	Docetaxel
+MGI 114	Irofulven
+AZD6244	Selumetinib
+Interferon alpha	Interferon A
+LETROZOLE (FEMARA)	Letrozole
+ABT-888	Veliparib
+Taxol/Carboplatin	Paclitaxel	Carboplatin
+Taxel	Paclitaxel
+Anti necplatens	Antineoplastons
+ALIMTA	Pemetrexed
+Cytomel	Liothyronine
+rigosertib	Rigosertib
+Raltitrexed	Raltitrexed
+Gemzan	Gemcitabine
+FOLFOX	Leucovorin	Fluorouracil	Oxaliplatin
+clodronate	Clodronic acid
+Temazolomide	Temozolomide
+Gezmar	Gemcitabine
+Cyotxan	Cyclophosphamide
+vinblastine	Vinblastine
+XELODA	Capecitabine
+Gemzar (Gemcitabine)	Gemcitabine
+Celebrex	Celecoxib
+Cisplatin #2-7	Cisplatin
+6-Mercaptopurine	Mercaptopurine
+Sulindac	Sulindac
+Carboplatin 5 AUC	Carboplatin
+LEUCOVORIN	Leucovorin
+etoposide	Etoposide
+CDR0000654697	NOS
+Gemcitabine (Gemzar)	Gemcitabine
+5 fluorouracil+leucovorin	Fluorouracil	Leucovorin
+AT-101	AT-101
+Treosulfan	Treosulfan
+fosaprepitant	Fosaprepitant
+Carboplatin Paclitaxel	Carboplatin	Paclitaxel
+recPRAME+AS15 ASCI	GSK2302025A
+GDC-0980	GDC-0980
+EXEMESTANE (AROMASIN)	Exemestane
+Aflibercept/ Placebo Study	Aflibercept
+Firmagon	Degarelix
+Doxorubicin HCI Lipsome	Doxorubicin
+regorafenib	Regorafenib
+Poly E	Poly E
+CARBOplatin	Carboplatin
+IRINOtecan HCl	Irinotecan
+Etoposide phosphate	Etoposide
+Armour Thyroid	Desiccated thyroid
+NEULASTA	Pegfilgrastim
+thalidomide	Thalidomide
+trastuzumab	Trastuzumab
+Tarceva	Erlotinib
+Bleomycin	Bleomycin
+Temodar	Temozolomide
+Diphencyprone	Diphencyprone
+WT-1 Vaccine	WT-1 Vaccine
+Carboplatin and Paclitaxel	Carboplatin	Paclitaxel
+Patupilone	Patupilone
+Micomycin	Mitomycin
+Fluorouracil (5-FU)	Fluorouracil
+Oncophage	Vitespen
+Letrozole (Femara)	Letrozole
+Tipifarnib	Tipifarnib
+Irressa	Gefitinib
+Etoposide	Etoposide
+Leuprolide acetate	Leuprolide
+CISPLATIN	Cisplatin
+PTK-ZK	Vatalanib
+lupron	Leuprolide
+AZD 2281	Olaparib
+Tivozanib	Tivozanib
+VP 16	Etoposide
+Carmustin	Carmustine
+Abagovomab or Placebo	Abagovomab
+Themozolomide	Temozolomide
+5-FU	Fluorouracil
+adriamycin+cuclophosphamide	Doxorubicin	Cyclophosphamide
+Nimustine	Nimustine
+PLFE/FLO	PLFE	Leucovorin	Fluorouracil	Oxaliplatin
+Interleukin-2	Aldesleukin
+Tarceva/Erlotinib	Erlotinib
+Pacilatxel	Paclitaxel
+Cytoxan and Taxotere	Cyclophosphamide	Docetaxel
+Valproic Acid	Valproic Acid
+recMAGE3-AS+AS15 ASCI/Placebo vaccine	MAGE-3-AS-AS15-ASCI
+arimidex	Anastrozole
+Daclizumab	Daclizumab
+Leuocvorin	Leucovorin
+Zofran	Ondansetron
+casodex	Bicalutamide
+Oxaliplatin	Oxaliplatin
+Taxoterecin	Docetaxel
+SAHA/Vorinostat	Vorinostat
+Chlorambucil	Chlorambucil
+MR1-1	MR1-1
+cyclophosphamid	Cyclophosphamide
+ARIMIDEX	Anastrozole
+Irinotecan HCL	Irinotecan
+Zoledronic Acid	Zoledronic acid
+Cloretazine	Laromustine
+Xgeva	Denosumab
+Bevacizumab vs Placebo	Bevacizumab
+Isotrectinoin (acccutane)	Isotretinoin
+Bicalutamid	Bicalutamide
+GDC-0449	Vismodegib
+Mustophoran	Fotemustine
+I 131 81C6	81C6
+IL-2 Therapy (interleukin)	Aldesleukin
+Toptecan	Topotecan
+xeloda	Capecitabine
+Rapamycin	Sirolimus
+Laferon	Interferon A
+oxaliplatinum+ 5-FU	Oxaliplatin	Fluorouracil
+Interferon alfa-2b	Interferon A
+cisplatinum	Cisplatin
+Folinic Acid	Leucovorin
+Hydroyurea	Hydroxyurea
+Vincristine	Vincristine
+MAGI131-81c6	81C6
+oxaliplatinum+5-FU	Oxaliplatin	Fluorouracil
+GP-100	GP100
+Zoledronic acid	Zoledronic acid
+Carmustine (BCNU)	Carmustine
+Tyrosine kinase inhibitor	NOS
+BLEOMYCIN	Bleomycin
+platinum	Platinum
+procarbazine	Procarbazine
+Prednisone	Prednisone
+GP100	GP100
+SAHA	Vorinostat
+Pegfilgrastim (Peg G-CSF)	Pegfilgrastim
+C1 FOLFIRI/Zaltrap	Leucovorin	Fluorouracil	Irinotecan	Aflibercept
+Temozomide	Temozolomide
+SCH 58500	SCH 58500
+cyclophosphamide+methotrexatum+fluorouracillum	Cyclophosphamide	Fluorouracil	Methotrexate
+Irinotecan Hydrochloride	Irinotecan
+CAPECITABINE	Capecitabine
+Mitomycin C	Mitomycin
+jevtana	Cabazitaxel
+Interferon alfa	Interferon A
+Cabozantinib	Cabozantinib
+CYC-116/Cyclocel	Cyclophosphamide	CYC116
+Cilengtide	Cilengitide
+Porfimer Sodium (Photofrin)	Porfimer
+Camptosar	Irinotecan
+Eribulin	Eribulin
+vemurafenib	Vemurafenib
+levoxyl	Levothyroxine
+Trametinib	Trametinib
+navelbine	Vinorelbine
+Oxaliplatinum	Oxaliplatin
+Cabazitaxel	Cabazitaxel
+IXABEPILONE	Ixabepilone
+Hexalen	Altretamine
+Cytoxan	Cyclophosphamide
+pemetrexed disodium	Pemetrexed
+Clodronate	Clodronic acid
+Hydrocortisone	Hydrocortisone
+BEVACIZUMAB	Bevacizumab
+cetuximab	Cetuximab
+sutent	Sunitinib
+Enoticumab	REGN421
+Abraxane	Paclitaxel
+Doxetaxel	Docetaxel
+Angiocal	Angiocal
+Pyrazinamide	Pyrazinamide
+FolFox	Leucovorin	Fluorouracil	Oxaliplatin
+Topotecan HCl	Topotecan
+DOCETAXEL	Docetaxel
+2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)	Photochlor
+PORTEC3-radiation alone	NOS
+cyclophosphamide	Cyclophosphamide
+Fulvestrant	Fulvestrant
+Anastrazole	Anastrozole
+femara	Letrozole
+5-fluorouracil	Fluorouracil
+Paciltaxal	Paclitaxel
+Interferon-alfa	Interferon A
+gemcitabine HCL	Gemcitabine
+Ironotecan	Irinotecan
+adriamycin	Doxorubicin
+5 fluorouracilum+leucovorin	Fluorouracil	Leucovorin
+adrimicin+cyclophosphamide	Doxorubicin	Cyclophosphamide
+Gemzar	Gemcitabine
+Rituximab	Rituximab
+IMC-A12	Cixutumumab
+fulvestrant	Fulvestrant
+MK2206	MK2206
+Aromasin	Exemestane
+Irolfluvin	Irofulven
+Pacitaxol	Paclitaxel
+Clinical Trial	NOS
+Arsenic Trioxide	Arsenic trioxide
+Albumin-Bound Paclitaxel	Paclitaxel
+Rhumab/Ind	NOS
+oncophage vaccine	Vitespen
+GEMZAR	Gemcitabine
+Carbobplatin	Carboplatin
+Benzylguanine	O6-Benzylguanine
+pemetrexed	Pemetrexed
+Platinum	Platinum
+cpt-11	Irinotecan
+Lomustine	Lomustine
+Xeloda (Capecitabine)	Capecitabine
+Procarbizine	Procarbazine
+Docetaxel	Docetaxel
+proleukin (IL-2)	Aldesleukin
+CETUXimab	Cetuximab
+Cyclophospamide	Cyclophosphamide
+nab-rapamycin	Sirolimus
+Doxorubincin HCL	Doxorubicin
+Melphalan	Melphalan
+Proleukin	Aldesleukin
+5-fu	Fluorouracil
+Tamoxifen & Megace	Tamoxifen	Megestrol
+TAMOXIFEN (NOVADEX)	Tamoxifen
+Interferon gamma	Interferon G
+tamoxiphen+anastrazolum	Tamoxifen	Anastrozole
+IL 12	Interleukin-12
+Amgen 706	Motesanib
+bleomycin	Bleomycin
+GL-ONC1	GL-ONC1
+Paciltaxel	Paclitaxel
+Temodal	Temozolomide
+Ovarex MA6 B43.13	Oregovomab
+Etoposid	Etoposide
+Mage A3	MAGE-A3
+Suramin	Suramin
+PSMA DNA Vaccine	PSMA DNA Vaccine
+IL2	Aldesleukin
+Exemestane	Exemestane
+Taxane	NOS
+abraxane	Paclitaxel
+FEMARA	Letrozole
+Cyclophosphamide	Cyclophosphamide
+Vinblastine	Vinblastine
+Faslodex	Fulvestrant
+BCG	BCG vaccine
+oxaliplatinum + 5-FU	Oxaliplatin	Fluorouracil
+EVERolimus	Everolimus
+Capecetabine	Capecitabine
+Dacarbazine	Dacarbazine
+Goserelin	Goserelin
+Levoxyl	Levothyroxine
+degarelix	Degarelix
+GEMICTIABINE	Gemcitabine
+BCNU	Carmustine
+Irintotecan	Irinotecan
+doxorubicine+cyclophosphamide	Doxorubicin	Cyclophosphamide
+Avastin (Bevacizumab)	Bevacizumab
+Gemzet	Gemcitabine
+Cepecitabine	Capecitabine
+gemcitabine	Gemcitabine
+Nilutamide	Nilutamide
+FUDR (Floxuridine)	Floxuridine
+ipilimumab	Ipilimumab
+VP-16	Etoposide
+taxol+adriamycin+cyclophosphamide+herceptin	Paclitaxel	Doxorubicin	Cyclophosphamide	Trastuzumab
+Xeloda	Capecitabine
+interferon alpha	Interferon A
+Sarafenib	Sorafenib
+FLUOROURACIL	Fluorouracil
+Pembrolizumab	Pembrolizumab
+carboplatin	Carboplatin
+PLFE	PLFE
+Paraplatin	Carboplatin
+MEGACE	Megestrol
+tamoxiphene	Tamoxifen
+Cis Retinoic Acid	Isotretinoin
+Liposomal Doxorubicin	Doxorubicin
+adriamycin+cyclophosphamide	Doxorubicin	Cyclophosphamide
+INF	Infliximab
+recMAGE- A3	MAGE-A3
+TAXOTERE	Docetaxel
+17-AAG	Tanespimycin
+Fluoruracil	Fluorouracil
+FULVESTRANT	Fulvestrant
+gemzar	Gemcitabine
+Tesetaxel	Tesetaxel
+BEVACIZumab	Bevacizumab
+CYTOXAN	Cyclophosphamide
+Topetecan	Topotecan
+doxorubicine cyclophosphamide tamoxifen	Doxorubicin	Cyclophosphamide	Tamoxifen
+Decodron	Dexamethasone
+Calcium Foliatum	Leucovorin
+Fuluestrant	Fulvestrant
+Methotrexate	Methotrexate
+interferon-alpha	Interferon A
+Pamidronate	Pamidronic acid
+Taxol or Taxotere	NOS
+VEMURAFENIB	Vemurafenib
+AT 101	AT-101
+Zoladex	Goserelin
+CDDP	Cisplatin
+TARCEVA	Erlotinib
+Cisplatin/Etoposide	Cisplatin	Etoposide
+Mayo 425-20	NOS
+Denosumab	Denosumab
+Avastin/bevacizumab/placebo	Bevacizumab
+Topotecan HCL	Topotecan
+Epirubicin	Epirubicin
+Liosomal Docorubicin	Doxorubicin
+imatinib	Imatinib
+GM-CSF	Sargramostim
+CT2103 Taxane Analog	Paclitaxel
+Nivolumab	Nivolumab
+TEMOZOLOMIDE	Temozolomide
+ABT-888 and temozolomide	Veliparib	Temozolomide
+topotecan	Topotecan
+dacarbazine	Dacarbazine
+Karenitecin	Cositecan
+Vorinostat	Vorinostat
+Bacillus Calmette-Guerin (BCG)	BCG vaccine
+Etoposide (VP16)	Etoposide
+oxaliplatinum+5 fluorouracilum	Oxaliplatin	Fluorouracil
+carbopaltin	Carboplatin
+Taxotere/Cytoxan	Docetaxel	Cyclophosphamide
+HSC vaccine injection	NOS
+Gemcitabine HCL	Gemcitabine
+Ketoconazole	Ketoconazole
+interferon	NOS
+capecitabine	Capecitabine
+Megace	Megestrol
+Doxirubicin	Doxorubicin
+5fluorouracil+leucovorin	Fluorouracil	Leucovorin
+faslodex	Fulvestrant
+Levcovorin	Leucovorin
+Patrin	Lomeguatrib
+Porfimer Sodium (Photofin)	Porfimer
+CISPLATINUM	Cisplatin
+PNU-159548	PNU-159548
+taxol	Paclitaxel
+PI88	PI-88
+Torisel	Temsirolimus
+doxil	Doxorubicin
+Doxifluridin	Doxifluridine
+Interferon	NOS
+Afatinib	Afatinib
+SOM 230	Pasireotide
+methotrexate	Methotrexate
+BEVACIZUmab	Bevacizumab
+Chloroquine	Chloroquine
+Perifosine	Perifosine
+Halaven	Eribulin
+Cyclophasphamide	Cyclophosphamide
+GOG 218	GOG 218
+Luprolide Depot	Leuprolide
+Sorafenib (Bay 43-9006)	Sorafenib
+CeeNU	Lomustine
+Taxol	Paclitaxel
+ONYX-015	ONYX-015
+Interferon-?2	Aldesleukin
+Irinotecan	Irinotecan
+doxorubicine+cyclophosphamide+tamoxifen	Doxorubicin	Cyclophosphamide	Tamoxifen
+RenAmin	Amino Acids
+Yervoy	Ipilimumab
+90Y-HU3S193	Hu3S193
+6 Thiguanine	'Tioguanine'
+triptorelin	Triptorelin
+streptozocin	Streptozocin
+Ovarex Study	Oregovomab
+IL 2	Aldesleukin
+BEVACIZUMAB (AVASTIN)/PLACEBO PROVIDED BY STUDY	Bevacizumab
+5FU	Fluorouracil
+Vinorelbine	Vinorelbine
+ZD6474	Vandetanib
+5-Fluorouracil?	Fluorouracil
+CBP501	CBP501
+Streptozocin	Streptozocin
+Cytoxin	Cyclophosphamide
+Lapatinib	Lapatinib
+tamoxiphene+leuporeline+gosereline	Tamoxifen	Leuprolide	Goserelin
+Cilengitide	Cilengitide
+ABRAXANE	Paclitaxel
+docetaxel	Docetaxel
+Cediranib	Cediranib
+Gliadel Wafers	Carmustine
+Sirolimus	Sirolimus
+Carboplatin & Paclitaxel	Carboplatin
+AP-23573 (ARIAD)	Ridaforolimus
+Ifex	Ifosfamide
+VMCL	VMCL
+leuprolide	Leuprolide
+adriamicin	Doxorubicin
+Chemo, NOS	Nitric Oxide
+Pamidronic acid	Pamidronic acid
+Avastin	Bevacizumab
+Polyplatillen	Cisplatin
+Letrozole	Letrozole
+herceptin	Trastuzumab
+I131-81C6	81C6
+LUPRON	Leuprolide
+2B3-101	Doxorubicin
+AE-37	AE37
+Gliadel Wafer	Carmustine
+Talimogene Laherparepvec (T-VEC)	Talimogene
+CCNU	Lomustine
+Tamoxiten	Tamoxifen
+pembrolizumab	Pembrolizumab
+temozolomide	Temozolomide
+Anastrozole	Anastrozole
+Bay-439006	Sorafenib
+SU101	leflunomide
+Doxil & Carboplatin	Doxorubicin	Carboplatin
+lapatinib	Lapatinib
+nivolumab	Nivolumab
+Isotretinoin	Isotretinoin
+Velcade	Dortezomib
+PSC833	Valspodar
+Adriamycin/Cytoxan	Doxorubicin	Cyclophosphamide
+Mesna	Mesna
+Alferon	Alferon
+tamoxiphene+anastrozolum	Tamoxifen	Anastrozole
+ac	Doxorubicin	Cyclophosphamide
+LOMUSTINE (CCNU)	Lomustine
+Navelbine	Vinorelbine
+Bevacizumab	Bevacizumab
+Almita	Pemetrexed
+Brivanib	Brivanib
+Irinotecan HCl	Irinotecan
+Erythropoietin	Epoetin
+Pegfilgrastim	Pegfilgrastim
+Not specified	NOS
+CPT-11	Irinotecan
+Vamydex	Vamydex
+Liposomal Doxorubican	Doxorubicin
+Pacliatxel	Paclitaxel
+Neulasta	Pegfilgrastim
+Didox	Didox
+Bromo deoxyuridine	Broxuridine
+etoposide (VP-16)	Etoposide
+melphalan	Melphalan
+Nexavaar	Sorafenib
+Copolang	Cyclophosphamide	Polysaccharide-K
+Sargramostin	Sargramostim
+Ibandronate	Ibandronate
+Topecan	Topotecan
+Porfimer Sodium(Photofin)	Porfimer
+Amitostin	Amifostine
+Amitostine	Amifostine
+ANASTROZOLE (ARIMIDEX)	Anastrozole
+Tanceva	Erlotinib
+CARBOPLATIN	Carboplatin
+IFOSFAMIDE	Ifosfamide
+leucovorin	Leucovorin
+Oxcarbazepine	Oxcarbazepine
+Pazopanib	Pazopanib
+Placebo	NOS
+GSK Braf Inhibitor	Dabrafenib
+MESNA-2	Mesna
+Doxorubicin HCI Liiposomal	Doxorubicin
+AMG 102	Rilotumumab
+Armidex	Anastrozole
+doxorubicin+cyclophosphamid	Doxorubicin	Cyclophosphamide
+Rituxan	Rituximab
+Sorafenib - Nexavar	Sorafenib
+carboplatinum	Carboplatin
+CYCLOPHOSPHAMIDE	Cyclophosphamide
+Trenantone	Leuprolide
+metotreksat	Methotrexate
+TCH	Docetaxel	Carboplatin	Trastuzumab
+Carboplatinum	Carboplatin
+Fenretinide	Fenretinide
+Amatuximab (MORab-009)	Amatuximab
+Etopside	Etoposide
+oxaliplatin	Oxaliplatin
+Panitumumab	Panitumumab
+Nolvadex	Tamoxifen
+Gemcitibine	Gemcitabine
+DS-8273a	DS-8273a
+Vandetanib	Vandetanib
+doxorubicin HCL	Doxorubicin
+Tamoxifen	Tamoxifen
+Carboplatin	Carboplatin
+Tarceva (Erlotinib)	Erlotinib
+Intron A	Interferon A
+Leuprolide Acetate	Leuprolide
+CCDP	Cisplatin
+cisplatin	Cisplatin
+5 FU	Fluorouracil
+ketoconazole	Ketoconazole
+Docetoxel/Taxotere	Docetaxel
+Belinostat	Belinostat
+paclitaxelum	Paclitaxel
+Paclitaxel	Paclitaxel
+CAI NABIT 9712	CAI NABIT 9712
+SNS 595	Vosaroxin
+Resiquimod	Resiquimod
+Eloxatin(oxaliplatin)	Oxaliplatin
+LHRH Agonist	LHRH
+Ciclosporin	Cyclosporine
+neulasta	Pegfilgrastim
+ZOLEDRONIC ACID	Zoledronic acid
+Halichondrin B	Halichondrin B
+Palixtaxel	Paclitaxel
+Leukine	Sargramostim
+Pemetrexed	Pemetrexed
+Vinorelbin	Vinorelbine
+sutent (sunitinib)	Sunitinib
+Bortezomib	Bortezomib
+Aflibercept	Aflibercept
+5- FU	Fluorouracil
+fotemustine	Fotemustine
+Fluorouracilum	Fluorouracil
+AROMASIN (EXEMESTANE)	Exemestane
+A202171 Protocol	NOS
+Ovarex/placebo	Oregovomab
+Irinotecan + Cetuximab	Irinotecan	Cetuximab
+bevacizumab	Bevacizumab
+Marimastat	Marimastat
+CAV Trial	Cyclophosphamide	Dactinomycin	Vincristine
+Cediranib Placebo	Cediranib
+Teniposide	Teniposide
+Mithramycin	Plicamycin
+Paclitaxel; Albumin-Bount	Paclitaxel
+EMD	NOS
+cytomel	Liothyronine
+COPOLANG CAPS	Cyclophosphamide	Polysaccharide-K
+HERCEPTIN	Trastuzumab
+HEC.1 - Sorafenib vs Sorafenib plus Doxorubicin	HEC.1
+5 fluorouracilum	Fluorouracil
+BRAF inhibitor	Vemurafenib
+MESNA-1	Mesna
+5-FU + LEULOV	Fluorouracil	Leucovorin
+Doxorubicin HCL Liposomal -Doxil	Doxorubicin
+Doxorubicin HCL Liposomal	Doxorubicin
+sunitinib	Sunitinib
+Carboplatin 6th	Carboplatin
+Synthroid	Levothyroxine
+Gliadel wafers	Carmustine
+Herceptin	Trastuzumab
+cytoxan	Cyclophosphamide
+Provera	Medroxyprogesterone
+clodronic acid	Clodronic acid
+aromatase exemestane	Exemestane
+aromasin	Exemestane
+px-866	px-866
+Dasatinib	Dasatinib
+camptosar	Irinotecan
+FLOUROURACIL	Fluorouracil
+5-Flourouracil	Fluorouracil
+Axitnib	Axitinib
+Gemcitibane	Gemcitabine
+Not otherwise specified	NOS
+interleukin-2	Aldesleukin
+Doxorubicin HCL	Doxorubicin
+paclitaxel	Paclitaxel
+IL-2	Aldesleukin
+EZN-2968	EZN-2968
+letrozole femara	Letrozole
+SORAFENIB	Sorafenib
+Doxetaxol	Docetaxel
+adrimycin+cyclophosphamide	Doxorubicin	Cyclophosphamide
+premetrexed	Pemetrexed
+Lupron	Leuprolide
+Ciplastin	Cisplatin
+anastrozolum	Anastrozole
+Doxil	Doxorubicin
+TL32711	Birinapant
+MLN8237	Alisertib
+Fulvestrant (Faslodex)	Fulvestrant
+lomustine	Lomustine
+Aloxi	Palonosetron
+Sunitinib	Sunitinib
+Docetaxelum	Docetaxel
+Xyotax	Paclitaxel
+Unkown	NOS
+Cytoxen	Cyclophosphamide
+Oral Etoposide	Etoposide
+Yondelis	Trabectedin
+TS-1	Tegafur	Gimeracil	Oteracil
+ANASTROZOLE	Anastrozole
+Carmustine	Carmustine
+LEUPROLIDE ACETATE (LUPRON)	Leuprolide
+Karerltecin	Cositecan
+vincristine	Vincristine
+taxotere	Docetaxel
+Dexamethasone phosphate	Dexamethasone
+actinomycin d	Dactinomycin
+ifosfamide	Ifosfamide
+Paclitaxil	Paclitaxel
+Alpha Interferon	Alferon
+AMG 706	Motesanib
+rec MAGE 3-AS + AS15 ACS1 / Placebo Vaccine	MAGE-3-AS-AS15-ASCI
+Carboplatin_Paclitaxel	Carboplatin	Paclitaxel
+Capecitabine -xeloda	Capecitabine
+PD 0332991	Palbociclib
+Eligard	Leuprolide
+Abagovomag vs Placebo	Abagovomab
+Abiraterone	Abiraterone
+Levothyroxine	Levothyroxine
+Doxobubicin	Doxorubicin
+Gemcitabine and Cisplatin	Gemcitabine	Cisplatin
+MORAb-004	MORAb-004
+Actinomycin-D	Dactinomycin
+Nexavar	Sorafenib
+VEGF-TRAP	Aflibercept
+E-75	Nelipepimut-S
+Lomustine (CCNU)	Lomustine
+Gliadel	Carmustine
+Oca Rex Oregovomab	Oregovomab
+CIS Retinoic Acid	Isotretinoin
+vectibix	Panitumumab
+Cisplatinum	Cisplatin
+Interleukin-12	Interleukin-12
+MAGE-3	MAGE-3
+IL-13PE	Cintredekin
+NAVELBINE	Vinorelbine
+Temsirolimus	Temsirolimus
+Carboplatin #1	Carboplatin
+azaTHIOprine	Azathioprine
+Folinic acid	Leucovorin
+Interleukin - 2	Aldesleukin
+Platinol	Cisplatin
+Temozolamide	Temozolomide
+BA4 43 9006	Sorafenib
+CarboPlatinum	Carboplatin
+Bevacizumiab/ versus Placebo	Bevacizumab
+Abagovomab vs Placebo	Abagovomab
+Vemurafenib	Vemurafenib
+Dacarbazine (DTIC)	Dacarbazine
+Aminopterin	Aminopterin
+Ipilimumab	Ipilimumab
+Trabectedin	Trabectedin
+BCG, Intravesicular	BCG vaccine
+Gamzar	Gemcitabine
+levothyroxine	Levothyroxine
+FOLFIRI	Leucovorin	Fluorouracil	Irinotecan
+TORISEL	Temsirolimus
+sunitinib (sutent)	Sunitinib
+Casodex	Bicalutamide
+Tomaxifen	Tamoxifen
+Doxorubicin Liposome	Doxorubicin
+Gemcitabine	Gemcitabine
+VINCRISTINE	Vincristine
+SUTENT	Sunitinib
+Pacitaxel	Paclitaxel
+CISplatinum	Cisplatin
+Trastuzumab	Trastuzumab
+TAMOXIFEN	Tamoxifen
+METHOTREXATE	Methotrexate
+CPT11	Irinotecan
+CEP 11981	CEP -11981
+Femara (Letrozole)	Letrozole
+Cisplatin-xrt	Cisplatin
+LETROZOLE	Letrozole
+9 Aminocamptothecin	9-aminocamptothecin
+Metformin	Metformin
+MDX-1106 clinical trial	Nivolumab
+erbitux	Cetuximab
+panitumumab	Panitumumab
+sorafenib	Sorafenib
+Carmustine BCNU	Carmustine
+everolimus	Everolimus
+Vinorelbin Tartrate	Vinorelbine
+Clinical Trial-Study Agent	NOS
+Doxorubicin	Doxorubicin
+IRESSA	Gefitinib
+Paciltaxle	Paclitaxel
+avastin	Bevacizumab
+B12	Cyanocobalamin
+Arimidex (Anastrozole)	Anastrozole
+Hexamethylmelamine	Altretamine
+Ifostamide	Ifosfamide
+MESNA	Mesna
+Leucovorin calcium	Leucovorin
+Leucovorin Calcium	Leucovorin
+cabazitaxel	Cabazitaxel
+EXEMESTANE	Exemestane
+Gemar	Gemcitabine
+Fareston	Toremifene
+pazopanib	Pazopanib
+Dacabarzine	Dacarbazine
+Cisplatin	Cisplatin
+Hexamethymelamine	Altretamine
+PACLITAXEL	Paclitaxel
+Halichondrin	Halichondrin B
+5-Fluoruoracil	Fluorouracil
+Interferon Alpha	Interferon A
+PCV	Procarbazine	Lomustine	Vincristine
+Mitomycin	Mitomycin
+CPT 11	Irinotecan
+Threshold-302	Evofosfamide
+Afinitor	Everolimus
+Xeloda(capecitabine)	Capecitabine
+Bevacizamab/Placebo	Bevacizumab
+Medrol	Methylprednisolone
+Alimta	Pemetrexed
+Interleukin 2-high dose	Aldesleukin
+Sorafinib ( Nexavar)	Sorafenib
+letrozole	Letrozole
+Levetiracetam	Levetiracetam
+Fluorouracil	Fluorouracil
+Hydroxyurea	Hydroxyurea
+adriamycin+cyclophosphamid	Doxorubicin	Cyclophosphamide
+DTIC	Dacarbazine
+Pacliltaxel	Paclitaxel
+Naxavar	Sorafenib
+Cetuximab	Cetuximab
+VECTIBIX	Panitumumab
+Zometa	Zoledronic acid
+Megace (oral)	Megestrol
+ETC Posidum	Etoposide
+Alvesin	Alvesin
+Doxorubicinum	Doxorubicin
+Carbo	Carboplatin
+zoledronic acid	Zoledronic acid
+5-flurouracil	Fluorouracil
+Ifosfamid	Ifosfamide
+TAXOL	Paclitaxel
+5 fluorouracil	Fluorouracil
+fluorouracil	Fluorouracil
+letrozolum	Letrozole
+Megestrol Acetate	Megestrol
+Capecitabine	Capecitabine
+BCNU (Carmustine)	Carmustine
+CCNu	Lomustine
+Regorafenib	Regorafenib
+Topotecan/Carboplatin	Topotecan	Carboplatin
+epirubicin	Epirubicin
+Doxifluridine	Doxifluridine
+BCNU (carmustine)	Carmustine
+intron a	Interferon A
+Investigal drug Avastin	Bevacizumab
+OXALIPLATIN	Oxaliplatin
+VP16	Etoposide
+Melphalon	Melphalan
+doxorubicin+ cyclophosphamide	Doxorubicin	Cyclophosphamide
+5-Fluorouracil	Fluorouracil
+FU7	NOS
+Oxaloplatin	Oxaliplatin
+Imatinib	Imatinib
+Everolimus	Everolimus
+Imiquimod	Imiquimod
+Paclitaxel (Protein-Bound)	Paclitaxel
+ARIMIDEX (ANASTROZOLE)	Anastrozole
+doxorubicin	Doxorubicin
+Valproic acid	Valproic acid
+FOLFIRI/Avastin	Leucovorin	Fluorouracil	Irinotecan	Bevacizumab
+Leuprolide	Leuprolide
+recPRAME+AS15	GSK2302025A
+Folfox	Leucovorin	Fluorouracil	Oxaliplatin
+Ovarex/Placebo	Oregovomab
+Ifosfamide	Ifosfamide
+IRINOTECAN+5-fluorouracilim	Irinotecan	Fluorouracil
+Carboplatin/Paclitaxel/Bevacizumab	Carboplatin	Paclitaxel	Bevacizumab
+Vincristin	Vincristine
+RAD001	Everolimus
+Xelox	Capecitabine	Oxaliplatin
+5-fluorouracilum	Fluorouracil
+Paclitaxol	Paclitaxel
+Carbplatin	Carboplatin
+Capecytabinum	Capecitabine
+IFN-Alpha (Intron)	Interferon A
+methotrexate+5 fluorouracil+cyclophosphamide	Methotrexate	Fluorouracil	Cyclophosphamide
+tamoxifen citrate	Tamoxifen
+SYNTHROID	Levothyroxine
+Cyclophosphane	Cyclophosphamide
+AZD	AZD
+leucovorin calcium	Leucovorin
+Triptorelin	Triptorelin
+Estramustine	Estramustine
+Carboplatin/Paclitaxel	Carboplatin	Paclitaxel
+tamoxifen	Tamoxifen
+Vepesid	Etoposide
+Gomzar	Gemcitabine
+folinic acid	Leucovorin
+fluorouracilum	Fluorouracil
+irinotecan	Irinotecan
+Thalidomide	Thalidomide
+5fluorouracil+oxaciplatina+l-folinian discido	Oxaliplatin	Leucovorin	Fluorouracil
+ET-743	Trabectedin
+Ovarex/IND	Oregovomab
+Docetaxel +/- Zactima	Docetaxel	Vandetanib
+Enzastaurin	Enzastaurin
+Iressa	Gefitinib
+Capecitabin	Capecitabine
+PS-341 Bortrezomib	Bortezomib
+Erlotonib	Erlotinib
+Adriamyicin	Doxorubicin
+Ras Inhibitor	NOS
+Reolysin	Reolysin
+Pemetrexed (Alimta)	Pemetrexed
+Adriamycin	Doxorubicin
+Cisplatnin	Cisplatin
+DOXORUBICIN	Doxorubicin
+IL-2 (high dose)	Aldesleukin
+Leucovorin	Leucovorin
+Levothroid	Levothyroxine
+Arimidex	Anastrozole
+temsirolimus	Temsirolimus
+Motexafin Gadolinium	Motexafin gadolinium
+Axitinib	Axitinib
+tc	Docetaxel	Cyclophosphamide
+5F4 Leucovorin	Fluorouracil	Leucovorin
+Bevacizumab or placebo	Bevacizumab
+Gemicitabine	Gemcitabine
+Vinorelbine Tartrate	Vinorelbine
+Sutent	Sunitinib
+Floxuridine	Fluorouracil
+Fotemustine	Fotemustine
+mitotane	Mitotane
+Sutent (Sunitinib)	Sunitinib
+Gemox	Gemcitabine	Oxaliplatin
+raloxifene	Raloxifene
+Dabrafenib	Dabrafenib
+FLC	NOS
+Ixabepilone	Ixabepilone
+5-FU+ etoposidium	Fluorouracil	Etoposide
+PV-10	PV-10
+ETOPOSIDE	Etoposide
+Adriamycin (doxorubicin)	Doxorubicin
+Tivantinib (ARQ-197)	Tivantinib
+CRA	Isotretinoin
+Doxorubicin HCl Liposomal	Doxorubicin
+temodar	Temozolomide
+Bicalutamide	Bicalutamide
+Dexamethasome	Dexamethasone
+VP 16 (Etoposide)	Etoposide
+Temodor	Temozolomide
+Hyrdroxyurea	Hydroxyurea
+Bevacizumab Avastin	Bevacizumab
+cis retinoic acid	Isotretinoin
+Gliadel BCNU	Carmustine
+Temoxolomide	Temozolomide
+Carboplatin, Taxol	Carboplatin	Paclitaxel
+Dendriticcell Vaccine	Dendritic cells vaccine
+Dendritic Cell Vaccine (dcvax)	Dendritic cells vaccine
+dcVax	Dendritic cells vaccine
+AE 788	AEE-788
+Gliadel Waters	Carmustine
+Dexaethasone	Dexamethasone
+Temador	Temozolomide
+Sovatenib	Sorafenib
+Dexamethsone	Dexamethasone
+Phenytoin Sodium	Phenytoin
+Adriamycin, cytoxan, avastin	Doxorubicin	Cyclophosphamide
+cyclophosphamide, vincristine, and dacarbazine	Dacarbazine	Vincristine	Cyclophosphamide
+6 Thioguanine	Tioguanine
+Cisplatain	Cisplatin
+Hydroxyuerea	Hydroxyurea
+Procarbazine/CCNU/Vincristine	Lomustine	Vincristine	Procarbazine
+Lomustine CCNU	Lomustine
+Arsenic Tnoxide	Arsenic trioxide
+Reinoid/CIS retinoic acid	Tretinoin
+Carboxy amido triazole	Carboxyamidotriazole
+Oxaliplatin, Folinic acid, Fluorouracil	Oxaliplatin	Leucovorin	Fluorouracil
+Dexmethasone	Dexamethasone
+Cisplatin, pemetrexed	Cisplatin	Pemetrexed
+Cilenaitide	Cilengitide
+Bevacozimab	Bevacizumab
+Gliadel wafer carmustine	Carmustine
+Cedicanib	Cediranib
+ICT-107	SOT-107
+Hydrochoroquine	Hydroxychloroquine
+Rapamcyin	Sirolimus
+Vatalanib (PTK787)	Vatalanib
+Calcium Foliatum, fluorouracilum, oxaliplatinum, dexamethassone	Oxaliplatin	Fluorouracil	Dexamethasone
+CCNG	Lomustine
+XL184	XL784
+Hydroxurea	Hydroxyurea
+Gliadel wafer	Carmustine
+Hyroxyurea	Hydroxyurea
+Temozolomode	Temozolomide
+Metronomic Temodar	Temozolomide
+Lumustine	Lomustine
+Erlotinib (Tarceva)	Erlotinib
+Cis-retinoic acid	Tretinoin
+ABTC 0603 Hydroxychloroquine	Hydroxychloroquine
+Tarveca	Erlotinib
+Bevacizumab or placebo RTOG 0825	Bevacizumab
+Arsenic Trioxide (ATO)	Arsenic trioxide
+Cytoxan, vincristine and dacarbazine	Dacarbazine	Vincristine	Cyclophosphamide
+Tipifarnib (R115777)	Tipifarnib
+Cediranib/Placebo	Cediranib
+Metexafin Gadolinium	Motexafin gadolinium
+dc Vax (Dendritic Cell Vaccine)	Dendritic cells vaccine
+9 immunoamino camptnetecin	Cyclic adenosine monophosphate
+DTIC, Dacarbazine	Acridine Carboxamide	Dacarbazine
+Dexamthasone	Dexamethasone
+Temodar (escalation)	Temozolomide
+Temozolomoide	Temozolomide
+Motexatin Gadoinium	Motexafin gadolinium
+Dexamethazone	Dexamethasone
+Everolimus, Gemcitabine, and Cisplatin	Cisplatin	Everolimus	Gemcitabine
+9AC 9 Aminocamplotecian	Cyclic adenosine monophosphate
+Gliadel Wafer (BCNU)	Carmustine
+Levenracetam	Levetiracetam
+Thalomid	Thalidomide
+Bevcizumab	Bevacizumab
+XL 184	Cabozantinib
+Vp 16	Etoposide
+Tipfarnib (R115777)	Tipifarnib
+Recentin Placebo AXDX2171	Cediranib
+Rad001	Everolimus
+PS341	Bortezomib
+PS 341	Bortezomib
+OS1-774	Erlotinib
+O6BG	O6-Benzylguanine
+O6B6	O6-Benzylguanine
+MU81C6	81C6
+mu81c6	81C6
+LY317615	Enzastaurin
+Irintocean	Irinotecan
+Gliadle Wafer	Carmustine
+Gleevac	Imatinib
+ch81c6	81C6
+Celbrex	Celecoxib
+BIBW2992	Afatinib
+BIBW 2992	Afatinib
+ARIAD AP23573	Ridaforolimus
+anti neopastons	Antineoplastons
+Accutane	Isotretinoin
+Acctuane	Isotretinoin
+ABT-888 Parp Inhibitor	Veliparib
+81c6	81C6
+81C6	81C6
+06GB	O6-Benzylguanine
+06-BG (NABTT 0803)	O6-Benzylguanine
+06-BG	O6-Benzylguanine
+06BG	O6-Benzylguanine
